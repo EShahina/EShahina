@@ -48,7 +48,7 @@ Thank you for your interest in contributing! This repository contains my profess
 
 If you have any questions about contributing, feel free to open an issue or reach out to me directly.
 
-Email: 23091a05k1@rgmcet.edu.in
-LinkedIn: [linkedin.com/in/EShahina](https://linkedin.com/in/EShahina)
+Email: shahinaemamsahebgari@gmail.com
+LinkedIn: [linkedin.com/in/emamsahebgari-shahina](https://www.linkedin.com/in/emamsahebgari-shahina)
 
 Thank you for helping me improve my profile! 🙏

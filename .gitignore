@@ -79,6 +79,7 @@ __pycache__/
 build/
 develop-eggs/
 dist/
+!dist/github-contribution-grid-snake*.svg
 downloads/
 eggs/
 .eggs/
