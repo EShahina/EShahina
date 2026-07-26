@@ -1,6 +1,16 @@
-# 👋 Welcome to My GitHub Profile!
+<div align="center">
 
-Hello! I'm **EMMASAHEBGARI SHAHINA**, a B.Tech Computer Science Engineering student passionate about Artificial Intelligence and Web Development.
+# 👋 Welcome to My GitHub Profile
+
+### EMMASAHEBGARI SHAHINA
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/EShahina)
+[![Email](https://img.shields.io/badge/Email-D14836?style=social&logo=gmail)](mailto:23091a05k1@rgmcet.edu.in)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=social&logo=github)](https://github.com/EShahina)
+
+</div>
+
+---
 
 ## 📁 Repository Contents
 
@@ -16,13 +26,17 @@ This repository contains my professional GitHub profile with the following files
 | [PULL_REQUEST_TEMPLATE.md](PULL_REQUEST_TEMPLATE.md) | Template for creating pull requests |
 | [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) | Community guidelines and code of conduct |
 
+---
+
 ## 🎯 About This Profile
 
 This profile is designed to showcase my:
 - **Technical Skills:** Python, Java, C, AI/ML, Web Development
 - **Projects:** Diet Recommendation System, AI Defect Detection
-- **Education:** B.Tech in Computer Science Engineering
+- **Education:** B.Tech in Computer Science Engineering @ RGMCET
 - **Goals:** Seeking opportunities in AI and Web Development
+
+---
 
 ## 🚀 Getting Started
 
@@ -30,14 +44,7 @@ This profile is designed to showcase my:
 2. Check out my [projects](#-featured-projects) section
 3. Feel free to [connect with me](#-lets-connect) on LinkedIn
 
-## 📊 My Journey
-
-```
-2026 - Current: B.Tech Computer Science Engineering Student
-      - AI/ML Projects
-      - Web Development
-      - Seeking Opportunities
-```
+---
 
 ## 🤝 Let's Connect!
 
@@ -48,9 +55,9 @@ I'm always open to:
 - 📚 Learning from others
 
 Feel free to reach out through:
-- 📧 Email
-- 💼 LinkedIn
-- 🐙 GitHub
+- 📧 Email: 23091a05k1@rgmcet.edu.in
+- 💼 LinkedIn: [linkedin.com/in/EShahina](https://linkedin.com/in/EShahina)
+- 🐙 GitHub: [github.com/EShahina](https://github.com/EShahina)
 
 ---
 

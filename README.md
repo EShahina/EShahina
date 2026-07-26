@@ -30,10 +30,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EShahina)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23091a05k1@rgmcet.edu.in)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/EShahina)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/EShahina)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/EShahina)
 
 </div>
 
@@ -77,6 +77,10 @@
 
 I'm a passionate and driven **B.Tech Computer Science Engineering** student with a deep fascination for **Artificial Intelligence** and **Machine Learning**. I believe in the power of technology to transform lives and am committed to building intelligent solutions that make a difference.
 
+📍 **Location:** Andhra Pradesh, India
+🎓 **Education:** B.Tech CSE @ RGMCET
+🎯 **Goal:** Building a career in AI/ML and Software Development
+
 </td>
 <td width="50%" valign="top">
 
@@ -86,6 +90,7 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 - 💡 **Problem Solving:** Turning complex challenges into elegant solutions
 - 🌱 **Growth:** Always learning, always improving
 - 🤝 **Collaboration:** Believing in the power of teamwork
+- 📚 **Continuous Learning:** Staying updated with latest technologies
 
 </td>
 </tr>
@@ -116,19 +121,19 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
   <br>
   <i>Computer Science Engineering</i>
   <br>
-  <a href="https://yourcollege.edu">
-    <img src="https://img.shields.io/badge/University-Your%20University-0969da?style=flat-square" alt="University"/>
+  <a href="https://rgmcet.edu.in">
+    <img src="https://img.shields.io/badge/RGMCET-Andhra%20Pradesh-0969da?style=flat-square" alt="RGMCET"/>
   </a>
 </td>
 <td align="center" width="50%">
-  <img src="https://img.shields.io/badge/CGPA-8.5%2F10-00c853?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
+  <img src="https://img.shields.io/badge/CGPA-8.0%2F10-00c853?style=for-the-badge&logo=award&logoColor=white" alt="CGPA"/>
   <br>
   <b>📊 Academic Performance</b>
   <br>
   <i>Consistent High Achiever</i>
   <br>
-  <a href="https://yourtranscript.edu">
-    <img src="https://img.shields.io/badge/Status-In%20Progress-ff9800?style=flat-square" alt="Status"/>
+  <a href="https://rgmcet.edu.in">
+    <img src="https://img.shields.io/badge/Status-Pursuing-ff9800?style=flat-square" alt="Status"/>
   </a>
 </td>
 </tr>
@@ -144,32 +149,23 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 
 <table>
 <tr>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Internship-AI%2FML-0969da?style=for-the-badge&logo=internetexplorer&logoColor=white" alt="AI/ML Intern"/>
+<td align="center" width="50%">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML-0969da?style=for-the-badge&logo=brain&logoColor=white" alt="AI/ML Focus"/>
   <br>
-  <b>🤖 AI/ML Intern</b>
+  <b>🤖 AI/ML Projects</b>
   <br>
-  <i>Summer 2025</i>
+  <i>Academic & Personal Projects</i>
   <br>
-  <small>Worked on computer vision projects</small>
+  <small>Developed intelligent systems using ML algorithms</small>
 </td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Freelance-Web%20Developer-00c853?style=for-the-badge&logo=wordpress&logoColor=white" alt="Web Developer"/>
+<td align="center" width="50%">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-00c853?style=for-the-badge&logo=code&logoColor=white" alt="Web Dev"/>
   <br>
-  <b>💻 Freelance Developer</b>
+  <b>💻 Web Development</b>
   <br>
-  <i>2024 - Present</i>
+  <i>Personal Projects</i>
   <br>
   <small>Built responsive web applications</small>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Leadership-Student%20Club-ff9800?style=for-the-badge&logo=users&logoColor=white" alt="Student Leader"/>
-  <br>
-  <b>👥 Technical Lead</b>
-  <br>
-  <i>2024 - Present</i>
-  <br>
-  <small>Led technical workshops</small>
 </td>
 </tr>
 </table>
@@ -197,13 +193,11 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=black)
 
 ### 🌐 Web Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -211,13 +205,6 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -276,54 +263,6 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Personal Portfolio Website
-> *Modern, responsive portfolio showcasing my work*
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
-
-**🎯 Key Features:**
-- 🎨 Modern UI/UX design
-- 📱 Fully responsive layout
-- ✨ Smooth animations
-- 🚀 Optimized performance
-
-**📈 Impact:**
-- 98/100 Lighthouse score
-- 100% mobile responsiveness
-- 3x faster load times
-
-[![View Project](https://img.shields.io/badge/View_Project-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EShahina/portfolio)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data Analysis Dashboard
-> *Interactive visualization of complex datasets*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=flat-square)
-
-**🎯 Key Features:**
-- 📈 Interactive data visualizations
-- 🔄 Real-time data processing
-- 📊 Multiple chart types
-- 💾 Export capabilities
-
-**📈 Impact:**
-- Analyzed 1M+ data points
-- Created 50+ visualizations
-- Automated 80% of reporting
-
-[![View Project](https://img.shields.io/badge/View_Project-0969da?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EShahina/data-dashboard)
-
-</td>
-</tr>
 </table>
 
 </div>
@@ -336,33 +275,26 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <img src="https://img.shields.io/badge/AI%2FML-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="AI/ML"/>
   <br>
   <b>🤖 AI/ML Specialization</b>
   <br>
   <small>Coursera</small>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <br>
   <b>🐍 Python for Data Science</b>
   <br>
   <small>IBM</small>
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Web%20Development-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/Web%20Development-HTML/CSS-FF6F00?style=for-the-badge&logo=w3schools&logoColor=white" alt="Web Dev"/>
   <br>
-  <b>⚛️ React Development</b>
+  <b>🌐 Web Development</b>
   <br>
-  <small>Meta</small>
-</td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/Cloud-Google-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Cloud"/>
-  <br>
-  <b>☁️ Cloud Engineering</b>
-  <br>
-  <small>Google Cloud</small>
+  <small>W3Schools</small>
 </td>
 </tr>
 </table>
@@ -375,47 +307,7 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 
 <div align="center">
 
-[![Ashina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EShahina&bg_color=0d1117&color=0969da&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/ashina711/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🏆 Competitive Programming
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  <br>
-  <b>🎯 LeetCode</b>
-  <br>
-  <small>500+ Problems Solved</small>
-  <br>
-  <img src="https://img.shields.io/badge/Rating-1800-blue?style=flat-square" alt="Rating"/>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  <br>
-  <b>💻 HackerRank</b>
-  <br>
-  <small>5★ in Problem Solving</small>
-  <br>
-  <img src="https://img.shields.io/badge/Gold-5%20Stars-FFD700?style=flat-square" alt="Gold"/>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Codeforces-007FFF?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  <br>
-  <b>⚡ Codeforces</b>
-  <br>
-  <small>Pupil Rating</small>
-  <br>
-  <img src="https://img.shields.io/badge/Rating-1200-green?style=flat-square" alt="Rating"/>
-</td>
-</tr>
-</table>
+[![EShahina's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EShahina&bg_color=0d1117&color=0969da&line=1f6feb&point=ffffff&area=true&area_color=1f6feb&hide_border=true)](https://github.com/EShahina/github-readme-activity-graph)
 
 </div>
 
@@ -428,7 +320,6 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 [![Open to Work](https://img.shields.io/badge/Open_to_Work-00C853?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EShahina)
 [![Internship](https://img.shields.io/badge/Internship-0969da?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://linkedin.com/in/EShahina)
 [![Full-time](https://img.shields.io/badge/Full_time-FF6F00?style=for-the-badge&logo=briefcase&logoColor=white)](https://linkedin.com/in/EShahina)
-[![Freelance](https://img.shields.io/badge/Freelance-9C27B0?style=for-the-badge&logo=upwork&logoColor=white)](https://linkedin.com/in/EShahina)
 
 </div>
 
@@ -440,7 +331,6 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 - 🤖 **AI/ML Engineer** - Building intelligent systems
 - 💻 **Software Developer** - Creating robust applications
 - 🌐 **Web Developer** - Crafting beautiful interfaces
-- 📊 **Data Scientist** - Extracting insights from data
 
 </td>
 <td width="50%" valign="top">
@@ -449,7 +339,7 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 - ✅ Strong problem-solving skills
 - ✅ Passion for learning new technologies
 - ✅ Team collaboration experience
-- ✅ Project management abilities
+- ✅ Strong communication abilities
 
 </td>
 </tr>
@@ -462,10 +352,9 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EShahina)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23091a05k1@rgmcet.edu.in)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EShahina)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EShahina)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/EShahina)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/EShahina)
 
 </div>
 
@@ -476,9 +365,6 @@ I'm a passionate and driven **B.Tech Computer Science Engineering** student with
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EShahina&color=blueviolet&style=for-the-badge)
-![Total Commits](https://img.shields.io/github/commits/EShahina?style=for-the-badge&color=0969da)
-![PRs Merged](https://img.shields.io/github/issues-pr-closed/EShahina?style=for-the-badge&color=00c853)
-![Issues Opened](https://img.shields.io/github/issues/EShahina?style=for-the-badge&color=ff9800)
 
 </div>
 
