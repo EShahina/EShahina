@@ -4,9 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0969da,100:1f6feb&height=220&section=header&text=EMMASAHEBGARI%20SHAHINA&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20CSE%20%7C%20AI%20Enthusiast%20%7C%20Web%20Developer&descSize=18&descAlignY=55&animation=twinkling" width="100%">
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/EShahina)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:23091a05k1@rgmcet.edu.in)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/EShahina)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahina-emamsahebgari)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shahinaemamsahebgari@gmail.com)
 
 </div>
 
@@ -38,7 +37,6 @@ B.Tech Computer Science Engineering student at RGMCET, Andhra Pradesh. Passionat
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -54,7 +52,6 @@ B.Tech Computer Science Engineering student at RGMCET, Andhra Pradesh. Passionat
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
 </td>
 <td>
@@ -88,7 +85,6 @@ Personalized nutrition planning using machine learning.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square)
 
 [View Project](https://github.com/EShahina/diet-recommendation)
 
@@ -103,7 +99,6 @@ Computer vision solution for automated quality inspection.
 - 92% detection accuracy, processing under 100ms
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
 
 [View Project](https://github.com/EShahina/defect-detection)
@@ -142,8 +137,8 @@ Computer vision solution for automated quality inspection.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/EShahina)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23091a05k1@rgmcet.edu.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahina-emamsahebgari)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahinaemamsahebgari@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EShahina)
 
 </div>
