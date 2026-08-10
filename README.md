@@ -86,7 +86,7 @@ Personalized nutrition planning using machine learning.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square)
 
-[View Project](https://github.com/EShahina/diet-recommendation)
+[View Project](https://github.com/EShahina/Diet_Recommendation)
 
 </td>
 <td width="50%">
@@ -101,7 +101,7 @@ Computer vision solution for automated quality inspection.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square)
 
-[View Project](https://github.com/EShahina/defect-detection)
+[View Project](https://github.com/EShahina/Ai-Defect-Detection)
 
 </td>
 </tr>
